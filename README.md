@@ -11,10 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 🏢 I'm a Software Engineer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 💬 Ask me about my experience with JavaScript, React.JS or anything related to Front-end web development.
 
 
 ### Connect with Me :
@@ -34,7 +33,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
 
 
 
